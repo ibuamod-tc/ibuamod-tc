@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibuamod-tc
 - 👀 I’m interested in Automation, SRE and Observability
 - 🌱 I’m currently learning about Nomad and Consul
-- 💞️ I’m looking to collaborate on (To be Update)
+- 💞️ I’m looking to collaborate on (To be Updated)
 - 📫 How to reach me `@Ibrahim Buamod` on slack
 
 <!---
